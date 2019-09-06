@@ -1,0 +1,80 @@
+/* body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+h1, h2 {
+  width: 100%;
+  text-align: center;
+}
+
+p, li {
+  font-size: 20px;
+}
+
+li {
+  padding-top: 10px;
+}
+
+small {
+  font-size: 13px;
+}
+
+.main-coffee-image-container, .reasons-to-drink-coffee-contianer {
+  width: 100%;
+  padding: 20px 0;
+  margin: 0;
+  
+}
+
+.main-coffee-image-container {
+  margin-top: 20px;
+  text-align: center;
+  background-color: #8fe89b;
+}
+
+.reasons-to-drink-coffee-contianer {
+  background-color: #8ea1e5
+}
+
+.about-coffee, .reasons-to-drink-coffee{
+  width: 900px;
+  margin: auto;
+}
+
+.about-coffee img {
+  float: left;
+  padding: 0 20px 20px 0;
+}
+
+.reasons-to-drink-coffee img {
+  float: right;
+}
+
+.copyright {
+  clear: both;
+  margin: 20px auto 20px auto;
+  width: 100%;
+  text-align: center;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.nav-list {
+  width: 900px;
+  margin: auto;
+  list-style: none;
+  padding-left: 0;
+}
+
+a, a:visited {
+  color: black;
+}
+
+a:hover {
+  color: blue;
+  
+} */
